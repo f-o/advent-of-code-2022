@@ -33,7 +33,7 @@ The solution will be printed to the console.
 | --- | ----- | ------ | ------ |
 | 01 | [Calorie Counting](https://adventofcode.com/2022/day/1) | :heavy_check_mark: | :heavy_check_mark: |
 | 02 | [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | :heavy_check_mark: | :heavy_check_mark: |
-
+| 03 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | :heavy_check_mark: | :heavy_check_mark: |
 
 
 ## License
