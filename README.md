@@ -36,6 +36,7 @@ The solution will be printed to the console.
 | 03 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | :heavy_check_mark: | :heavy_check_mark: |
 | 04 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | :x: | :x: |
 | 05 | [Supply Stacks](https://adventofcode.com/2022/day/5) | :heavy_check_mark: | :x: |
+| 06 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | :heavy_check_mark: | :heavy_check_mark: |
 
 
 ## License
